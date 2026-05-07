@@ -1,4 +1,4 @@
-# [App-Name]
+# Geschwindkeitsmesser
 
 > Kurze Beschreibung der Applikation – Was macht sie? Für wen ist sie gedacht?
 
@@ -6,15 +6,15 @@
 
 ## 📋 Projektinformationen
 
-| Feld              | Inhalt                          |
-|-------------------|---------------------------------|
-| **Projektname**   | [App-Name]                      |
-| **Klasse**        | [z. B. 3AHITM]                  |
-| **Schuljahr**     | [z. B. 2025/26]                 |
-| **Abgabedatum**   | [TT.MM.JJJJ]                    |
-| **Autor/in**      | [Vorname Nachname]              |
-| **Lehrer/in**     | [Vorname Nachname]              |
-| **Fach**          | [z. B. Informationstechnologie] |
+| Feld              | Inhalt                           |
+|-------------------|----------------------------------|
+| **Projektname**   | [Geschwindigkeitsüberschreitung] |
+| **Klasse**        | [1aAPC]                          |
+| **Schuljahr**     | [2025/26]                        |
+| **Abgabedatum**   | [07.05.2026]                     |
+| **Autor/in**      | [Filip Jukic]                    |
+| **Lehrer/in**     | [Ing. Gerhard Jarz]              |
+| **Fach**          | [ITL 1&2]                        |
 
 ---
 
